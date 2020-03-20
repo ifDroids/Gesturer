@@ -1,8 +1,10 @@
-package com.base.gesturer;
+package UI;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.base.gesturer.R;
 
 public class MainActivity extends AppCompatActivity {
 
