@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Gesturer</string>
+    <string name="fingerprint_gesture">Fingerprint Gesture</string>
+    <string name="swipe_gesture">Swipe Gesture</string>
 </resources>
